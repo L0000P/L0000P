@@ -31,7 +31,7 @@ Property | Data
 
 <p align="center"><br>
 📫 <b>How to Reach me:</b>
-<a href="https://www.linkedin.com/in/alessandro-tomarchio-093a82190/" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/linkedin.svg" alt="BEPb" height="30" width="30"></a>
+<a href="https://www.linkedin.com/in/alessandro-tomarchio-4274a72a5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/linkedin.svg" alt="BEPb" height="30" width="30"></a>
 <a href="mailto:alessandro.tomarchio01@gmail.com" target="blank"><img align="center" src="assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
 
 </p>
